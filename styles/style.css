@@ -1,7 +1,14 @@
+body{
+  background-color: #F8BBD0;
+  background-size: 20px 20px;
+  background-image:  repeating-linear-gradient(0deg, #F06292, #F06292 1px, #F8BBD0 1px, #F8BBD0);
+}
+
 .topnav {
-  background-color: #6B9056;
+  background-color: #F06292;
   overflow: hidden;
   margin-bottom: 5px;
+  margin-bottom:15px;
 }
 
 .nav-link {
@@ -20,4 +27,36 @@
 
 .navbar-brand{
   float: left;
+}
+
+#welcome{
+  margin: 10px;
+  text-align: center;
+}
+
+.card-title{
+  text-align: center;
+}
+
+#reason{
+  background-color: #BDFFBE;
+  margin: 10px;
+}
+
+#reason p{
+  text-align: left;
+  /* font-family: Cambria; */
+}
+
+
+
+footer{
+  position:relative;
+  text-align: center;
+  padding: 3px;
+  margin-top: 15px;
+  background-color: #F06292;
+  color: black;
+  font-weight: bold;
+  font-size: 15px;
 }
