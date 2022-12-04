@@ -43,7 +43,7 @@ $('#welcome').append(
 let welcomeInfoArray = [
     {
     hello: "Hello! Welcome to the final project of CIS 376",
-    reasonOne: "UX design should be important for interface. I have given an example of a bad UX as well as an improved version of how I think things could work better.", 
+    reasonOne: "Good user experience is an important part of any design creation. I have given an example of a bad UX as well as an improved version of how I think things could work better. <br> I have a toaster oven that has different selections for cooking/baking food. I don't quite like the dials on the side, so I made some updates.", 
     }
   
   ]
